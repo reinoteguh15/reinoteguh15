@@ -18,6 +18,6 @@ Connect with me on Linkedin:
 
 <p align="left">
 <a href="https://github.com/bagusesa">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bagusesa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=reinoteguh15&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> 
 </a>
 </p>
