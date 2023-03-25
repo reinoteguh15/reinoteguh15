@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-<!--
-**reinoteguh15/reinoteguh15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 My name is **Reinato Teguh Santoso**, you can call me **Rei**
 
 I am an Electrical Engineering student at Brawijaya University
