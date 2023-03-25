@@ -8,7 +8,7 @@ I am an Electrical Engineering student at Brawijaya University
 
 - 📫 You can reach me on **reinoteguhsts15@gmail.com**
 
-Connect with me on Linkedin:<p align="left"><a href="https://linkedin.com/in/reinato-teguh-santoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reinato-teguh-santoso" height="30" width="40" /></a></p>
+Connect with me on Linkedin: <a href="https://linkedin.com/in/reinato-teguh-santoso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="reinato-teguh-santoso" height="30" width="40" /></a>
 
 <p align="left">
 <a href="https://github.com/bagusesa">
